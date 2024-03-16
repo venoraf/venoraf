@@ -1,16 +1,64 @@
-### Hi there 👋
+<div align="middle"> 
+  
+ 
+  <img src="https://github.com/venoraf/Images-and-Gifs-/blob/main/Frame%202.png" width="700px" alt="Venora Furtado">  
+  
+-----
+<div align="left">
+  
+Proficient in multiple programming languages & frameworks, while leading & collaborating with diverse teams. Specialised in architecting scalable services. Interested in building my knowledge on development in the technology and gaming industries through software engineering internships. Committed to driving innovation & growth. 
 
-<!--
-**venoraf/venoraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="left"> 
+<details>
+  <summary><b>Currently listening to ♫</b></summary>
+  <br/>
+   <img src="(https://spotify-github-profile.vercel.app/api/view?uid=unicornvinny&cover_image=true&theme=default&show_offline=true&background_color=45177d&interchange=true&bar_color=f3b4e6&bar_color_cover=false)" height="100px"/>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>Skills ✫</b></summary>
+  <br/>
+
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+  ![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)
+  ![C](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
+  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=blockchain)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
+  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-black?style=plastic&logo=github-actions)
+  ![GitLab](https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=plastic&logo=mui)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql) 
+  ![SQLServer](https://img.shields.io/badge/-MSSQL-black?style=plastic&logo=sqlserver)
+  ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
+  ![Linux](https://img.shields.io/badge/-linux-black?style=plastic&logo=linux)
+  ![Figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma) 
+  ![Photoshop](https://img.shields.io/badge/-photoshop-black?style=plastic&logo=adobe) 
+  ![Unity](https://img.shields.io/badge/-Unity-black?style=plastic&logo=unity)
+
+</details>
+
+<details>
+  <summary><b>Learn More ✿</b></summary>
+  <br/>
+    <img src="https://github.com/venoraf/Images-and-Gifs-/blob/main/yang-jungwon-jungwon.gif" width="250px" />
+ 
+  <br/> Check out my portfolio at <a href="https://www.venorafurtado.com/">venorafurtado.com</a>!
+</details>
+
+<details>
+  <summary><b>Reach out ♡</b></summary>
+ <div>
+  <br/>
+  I like connecting with people so if you'd like to reach out: <br> write to me at <a href="mailto:venora10@gmail.com">venora10@gmail.com</a>  
+</details>
