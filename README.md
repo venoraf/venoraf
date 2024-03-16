@@ -14,7 +14,7 @@ Proficient in multiple programming languages & frameworks, while leading & colla
 <details>
   <summary><b>Currently listening to ♫</b></summary>
   <p align="left">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=unicornvinny&cover_image=true&theme=default&show_offline=true&background_color=583b5e&interchange=true&bar_color=f7c6fb">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=unicornvinny&cover_image=true&theme=natemoo-re&show_offline=true&background_color=583b5e&interchange=true&bar_color=f7c6fb&bar_color_cover=false">
 </p>
 </details>
 
