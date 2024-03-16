@@ -24,11 +24,11 @@ Proficient in multiple programming languages & frameworks, while leading & colla
   <summary><b>Skills ✫</b></summary>
   <br/>
 
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
   ![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)
   ![C](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
-  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
