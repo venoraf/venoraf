@@ -63,5 +63,7 @@ Proficient in multiple programming languages & frameworks, while leading & colla
   <summary><b>Reach out ♡</b></summary>
  <div>
   <br/>
-  I like connecting with people so if you'd like to reach out: <br> write to me at <a href="mailto:venora10@gmail.com">venora10@gmail.com</a>  
+   <img src="https://github.com/venoraf/Images-and-Gifs/blob/main/plink-cat-plink.gif" width="250px" />
+   
+  <br/> I like connecting with people so if you'd like to reach out: <br> Write to me at <a href="mailto:venora10@gmail.com">venora10@gmail.com</a>  
 </details>
