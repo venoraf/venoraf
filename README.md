@@ -67,3 +67,4 @@ Proficient in multiple programming languages & frameworks, while leading & colla
    
   <br/> I like connecting with people so if you'd like to reach out: <br> Write to me at <a href="mailto:venora10@gmail.com">venora10@gmail.com</a>  
 </details>
+<br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=venoraf&label=Profile%20views&color=0e75b6&style=flat" alt="venoraf" /> </p>
