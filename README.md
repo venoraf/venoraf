@@ -6,7 +6,7 @@
 -----
 <div align="left">
   
-Proficient in multiple programming languages & frameworks, operating in agile enviornments. Specialised in architecting scalable services. Interested in building my knowledge on development in the technology and gaming industries through software engineering internships. Committed to driving innovation & growth. 
+Proficient in multiple programming languages & frameworks and operating in agile enviornments. Interested in building my knowledge on development in the technology and gaming industries through software engineering internships. Committed to driving innovation & growth. 
 
 ---
 
