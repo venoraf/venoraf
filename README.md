@@ -32,7 +32,6 @@ Proficient in multiple programming languages & frameworks and operating in agile
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=blockchain)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
   ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
