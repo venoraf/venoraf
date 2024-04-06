@@ -22,24 +22,26 @@ Proficient in multiple programming languages & frameworks and operating in agile
 
 <details>
   <summary><b>Skills ✫</b></summary>
-  <br/>
   
   #### &nbsp; 🩷 Backend
-  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)(#)&nbsp;
-  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)(#)&nbsp;
-  ![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)(#)&nbsp;
-  [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
-  ![C](https://img.shields.io/badge/-c-black?style=plastic&logo=c)(#)&nbsp;
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)(#)&nbsp;
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)&nbsp;
-  ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)&nbsp;
-  [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=A8B9CC)](#)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
+  ![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
+  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=transformers&logoColor=A8B9CC)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=A8B9CC)
 
   #### &nbsp; 💙 FrontEnd 
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
+  [![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=A8B9CC)](#)&nbsp;
   ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
   [![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat&logo=websocket&logoColor=A8B9CC)](#)&nbsp;
+  [![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery&logoColor=A8B9CC)](#)&nbsp;
   ![Figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=plastic&logo=mui)
   ![Photoshop](https://img.shields.io/badge/-photoshop-black?style=plastic&logo=adobe) 
@@ -55,10 +57,10 @@ Proficient in multiple programming languages & frameworks and operating in agile
   ![GitLab](https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws)
+  [![Windows](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
   ![Linux](https://img.shields.io/badge/-linux-black?style=plastic&logo=linux) 
   ![Unity](https://img.shields.io/badge/-Unity-black?style=plastic&logo=unity)
 
-  <br/>
 </details>
 
 <details>
