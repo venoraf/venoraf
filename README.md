@@ -16,7 +16,7 @@ Proficient in multiple programming languages & frameworks and operating in agile
   <p align="left">
   <br/> 
     
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=unicornvinny&cover_image=true&theme=default&show_offline=true&background_color=490656&interchange=true&bar_color=f4c9f8&bar_color_cover=false">
+  <img width="320" height="445" src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=unicornvinny&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=unicornvinny&cover_image=true&theme=default&show_offline=true&background_color=73122f&interchange=true&bar_color=f0c0f7)]]">
 </p>
 </details>
 
