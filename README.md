@@ -94,3 +94,5 @@ Proficient in multiple programming languages & frameworks and operating in agile
   <br/> I like connecting with people so if you'd like to reach out: <br> Write to me at <a href="mailto:venora10@gmail.com">venora10@gmail.com</a>  
 </details>
 <br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=venoraf&label=Profile%20views&color=0e75b6&style=flat" alt="venoraf" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venoraf&layout=donut&theme=dracula)](https://github.com/venoraf/github-readme-stats)
